@@ -10,6 +10,7 @@ members = [
   "elrond-codec",
   "elrond-codec-derive",
   "elrond-interact-snippets",
+  "abi_serialization",
 
   "contracts/benchmarks/mappers/benchmark-common",
   "contracts/benchmarks/mappers/linked-list-repeat",
