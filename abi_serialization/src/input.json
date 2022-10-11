@@ -1,0 +1,27 @@
+{
+    "name": "TestSmartContract",
+    "endpoints": [
+        {
+            "name": "func1",
+            "inputs": [
+                {
+                    "name": "param1",
+                    "type": "u8"
+                },
+                {
+                    "name": "param2",
+                    "type": "u16"
+                }
+            ],
+            "outputs": [
+                {
+                    "type": "u32"
+                },
+                {
+                    "type": "u16"
+                }
+            ]
+        }
+    ],
+    "hasCallback": false
+}
